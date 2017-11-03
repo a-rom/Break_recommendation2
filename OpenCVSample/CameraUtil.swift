@@ -1,10 +1,3 @@
-//
-//  CameraUtil.swift
-//  OpenCVSample
-//
-//  Created by gibachan on 2014/10/19.
-//  Copyright (c) 2014年 gibachan. All rights reserved.
-//
 
 import Foundation
 import UIKit
